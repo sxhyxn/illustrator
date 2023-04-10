@@ -28,8 +28,5 @@ ctrl + alt + 숫자2  --> 풀기(한꺼번에 풀림)
 ![image](https://user-images.githubusercontent.com/60366769/230850698-e36cc07b-8f65-4629-9384-a7cdd5b1d535.png)
 
 
-
-
-
-
+🦄
 
